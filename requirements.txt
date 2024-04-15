@@ -1,0 +1,4 @@
+transformers
+TensorFlow
+awslambdaric
+tf-keras
